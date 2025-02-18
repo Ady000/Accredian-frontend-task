@@ -22,8 +22,8 @@ This is the **frontend** of the Refer & Earn application, built with **React.js*
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/YOUR_GITHUB_USERNAME/refer-earn-frontend.git
-cd refer-earn-frontend sh```
-2️⃣ Install Dependencies
+cd refer-earn-frontend sh```;
+**2️⃣ Install Dependencies**
 ```sh
 npm install
 3️⃣ Configure Environment Variables
